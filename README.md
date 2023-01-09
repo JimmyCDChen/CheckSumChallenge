@@ -13,3 +13,9 @@ After installation for all pre-requsites, you can run the tests to verify the co
 ```
 yarn jest
 ```
+
+To run individual file, run 
+
+```
+npx ts-node [filename]
+```
